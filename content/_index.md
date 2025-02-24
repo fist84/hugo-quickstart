@@ -1,5 +1,8 @@
----
-title: "欢迎来到我的博客"
-date: 2023-10-01
----
-这是我的个人博客，我会在这里分享我的想法和经历。
++++
+title = "Welcome to My Blog"
+description = "This is a place where I share my thoughts and ideas."
++++
+
+# Hello, welcome to my blog!
+
+I'm excited to share my thoughts on technology, life, and everything in between.
